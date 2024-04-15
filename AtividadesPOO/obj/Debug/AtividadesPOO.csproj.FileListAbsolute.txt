@@ -1,0 +1,12 @@
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\bin\Debug\AtividadesPOO.exe.config
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\bin\Debug\AtividadesPOO.exe
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\bin\Debug\AtividadesPOO.pdb
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.Form1.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.Form2.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.Properties.Resources.resources
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.exe
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.pdb
+C:\Users\2jd\Documents\Felipe e Igor Michelini - 2JD\AtividadesPOO\AtividadesPOO\obj\Debug\AtividadesPOO.Form3.resources
